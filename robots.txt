@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aequeixew.kzngr.de/sitemap.xml
